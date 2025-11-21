@@ -6,7 +6,7 @@ This website exists *purely* as a testing and development sandbox, created for p
 
 
 
-# THIS THE LOGIN PAGE
+# LOGIN PAGE
 
 
 
@@ -19,7 +19,7 @@ USERNAME:admin
 PASSWORD:s3crestpass
 
 
-# THIS IS THE DASHBOARD
+# DASHBOARD
 
 
 
